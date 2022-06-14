@@ -2,4 +2,9 @@
     <string name="app_name">About Me</string>
     <string name="name">Md. Ahanaf Arif Khan</string>
     <string name="yellow_star">Yellow Star</string>
+    <string name="bio_text">
+        Hello!\n\nMy name is Md. Ahanaf Arif Khan. I also go by Eram.\n\nI\'m currently studying Computer
+        Science and Engineering at University of Rajshahi, Bangladesh.\n\nI like trying out new tech and my goal is to someday be able to contribute something
+        in my sector.\n\nThis is my first time developing android apps using Android Studio.\n\nI\'m following a course on Udacity titled "Learn Android Development with Kotlin.\n\nLet's See how far I can go with this.\n\n\n\n\n\n\n\nPancakes.
+    </string>
 </resources>
