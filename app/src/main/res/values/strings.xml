@@ -7,4 +7,7 @@
         Science and Engineering at University of Rajshahi, Bangladesh.\n\nI like trying out new tech and my goal is to someday be able to contribute something
         in my sector.\n\nThis is my first time developing android apps using Android Studio.\n\nI\'m following a course on Udacity titled "Learn Android Development with Kotlin.\n\nLet's See how far I can go with this.\n\n\n\n\n\n\n\nPancakes.
     </string>
+    <string name="what_is_nickname">What is your nickname?</string>
+    <string name="nickname">Nickname</string>
+    <string name="done">Done</string>
 </resources>
